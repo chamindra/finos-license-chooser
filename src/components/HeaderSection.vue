@@ -3,10 +3,10 @@
     <nav class="navbar">
       <div class="container">
         <div class="navbar-brand">
-          <a class="logo" aria-current="page" href="/">
+          <a class="icon" aria-current="page" href="/">
             <img
-              src="@creativecommons/cc-assets/logos/products/chooser.svg"
-              alt="Creative Commons License chooser"
+              src="https://www.finos.org/hs-fs/hubfs/sofin%20assets/SOFIN%20LOGOS/finos-logo.png?width=1086&name=finos-logo.png"
+              alt="FinOS License chooser"
               height="40"
               width="169"
             />
